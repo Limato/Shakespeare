@@ -1,0 +1,9 @@
+HAMLET
+
+GHOST: I am a ghost
+
+POLONIUS: I am a curtain
+
+HAMLET: I'm dead.
+
+THE END.
