@@ -2,6 +2,8 @@ HAMLET
 
 GHOST: I am a ghost
 
+HAMLET: To be or not to be poor Yorick!
+
 POLONIUS: I am a curtain
 
 HAMLET: I'm dead.
